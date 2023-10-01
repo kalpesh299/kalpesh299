@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Kalpesh</h1>
-<h3 align="center">Kalpesh Patil Currently,Employed as a Web and Mobile Accessibility Tester at Accenture in Vikhroli. Prior to this, I completed my undergraduate education in Electronics and Telecommunication from Ramrao Adik Institute, located in Navi Mumbai. As a passionate problem solver and developer, expertise in Java, DSA,OOPs, Sprin Boot,REST API, Hibernate, MVC I strongly believe in process and continuously strive to improve by learning new skills. I am constantly seeking out opportunities to enhance my expertise and contribute to the success of my team.</h3>
+<h3 align="center">Experienced as a Web developer and Web Mobile Accessibility Tester at Accenture in Vikhroli. Prior to this, I completed my undergraduate education in Electronics and Telecommunication from Ramrao Adik Institute, located in Navi Mumbai. As a passionate problem solver and developer, with expertise in Java, DSA, OOPs, Spring Boot, REST API, Hibernate, and MVC I strongly believe in the process and continuously strive to improve by learning new skills. I am constantly seeking out opportunities to enhance my expertise and contribute to the success of my team.</h3>
 
 <img align="right" alt="GIF" width="400" src="https://media3.giphy.com/media/FoVzfcqCDSb7zCynOp/200w.gif?cid=ecf05e47vq1bcbzrksfj4pvswi61cw7e1uvy6518qmvbh9iv&rid=200w.gif"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalpesh299&label=Profile%20views&color=0e75b6&style=flat" alt="kalpesh299" /> </p>
 
-- 🔭 I’m currently working as a Web and Mobile Accessibility Tester **Accenture**
+- 🔭 Having 2 years of experience as a web developer at **Accenture**
 
-- 🌱 I’m currently learning **Backend technologies**
+- 🌱Currently learning **Frontend** and **Backend technologies**
 
-- 💬 Ask me about **Java,DSA,OOPs,Spring Boot,API,REST APIs**
+- 💬 Ask me about **HTML, JS, CSS, Java, DSA, OOPs, Spring Boot, API, REST APIs**
 
 - 📫 How to reach me **kalpesh123.kp78@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1M8pEbpzl3BpSOYX5Mk0nh_Y4bjYJqZff/view?usp=sharing](https://drive.google.com/file/d/1M8pEbpzl3BpSOYX5Mk0nh_Y4bjYJqZff/view?usp=sharing)
 
-- ⚡ Fun fact **I am a funny person, but my responsibilities makes serious😉.**
+- ⚡ Fun fact **I am a funny person, but my responsibilities make me serious😉.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
