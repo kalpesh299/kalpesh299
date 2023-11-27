@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kalpesh</h1>
-<h3 align="center">Experienced as a Web developer and Web Mobile Accessibility Tester at Accenture in Vikhroli. Prior to this, I completed my undergraduate education in Electronics and Telecommunication from Ramrao Adik Institute, located in Navi Mumbai. As a passionate problem solver and developer, with expertise in Java, DSA, OOPs, Spring Boot, REST API, Hibernate, and MVC I strongly believe in the process and continuously strive to improve by learning new skills. I am constantly seeking out opportunities to enhance my expertise and contribute to the success of my team.</h3>
+<h3 align="center">Experienced as a Web developer and Web Mobile Accessibility Tester at Accenture in Vikhroli. Prior to this, I completed my undergraduate education in Electronics and Telecommunication from Ramrao Adik Institute, located in Navi Mumbai. As a passionate problem solver and developer, with expertise in Javascript, HTML, CSS, TailWind CSS, React.js,  Basic of Java, DSA, OOPs, Spring Boot, REST API, and MVC I strongly believe in the process and continuously strive to improve by learning new skills. I am constantly seeking out opportunities to enhance my expertise and contribute to the success of my team.</h3>
 
 <img align="right" alt="GIF" width="400" src="https://media3.giphy.com/media/FoVzfcqCDSb7zCynOp/200w.gif?cid=ecf05e47vq1bcbzrksfj4pvswi61cw7e1uvy6518qmvbh9iv&rid=200w.gif"></img>
 
@@ -9,7 +9,7 @@
 
 - 🌱Currently learning **Frontend** and **Backend technologies**
 
-- 💬 Ask me about **HTML, JS, CSS, Java, DSA, OOPs, Spring Boot, API, REST APIs**
+- 💬 Ask me about **HTML, CSS, Tailwind CSS, JS, Java, DSA, OOPs, Spring Boot, API, REST APIs**
 
 - 📫 How to reach me **kalpesh123.kp78@gmail.com**
 
@@ -28,7 +28,15 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p align="left"> 
+    <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="git" width="40" height="40"/> </a>
+    <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="git" width="40" height="40"/> </a>
+   <a href="[https://git-scm.com/](https://www.javascript.com/)" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/javascript/images/806c2e30-cf85-4b36-81bb-037049603c34.svg" alt="git" width="40" height="40"/> </a>
+   <a href="[https://git-scm.com/](https://react.dev/)" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="git" width="40" height="40"/> </a>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalpesh299&show_icons=true&locale=en&layout=compact" alt="kalpesh299" /></p>
 
